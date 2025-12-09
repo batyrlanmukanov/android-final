@@ -12,7 +12,7 @@
         android:layout_weight="1"
         android:layout_height="wrap_content"
         android:text="Mon"
-        android:textSize="18sp"
+        android:textSize="13sp"
         android:textColor="#222"/>
 
     <TextView
@@ -20,6 +20,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="😊"
-        android:textSize="20sp"
+        android:textSize="21sp"
         android:paddingStart="12dp"/>
 </LinearLayout>
